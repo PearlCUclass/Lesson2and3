@@ -59,4 +59,4 @@ if __name__ == "__main__":
         move_folder_to_folder(filename, source_folder)  
     
     # 印出移動完成的訊息
-    print("檔案移動完成。")
+    # print("檔案移動完成。")
